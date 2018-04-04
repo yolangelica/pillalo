@@ -63,3 +63,21 @@ Se realiza un Card sorting para ordenar las subcategorias y reducir el filtro.
 esto se realiza con el mismo equipo
 estos son los resultados de categorias y subcategorias principales que se consiguió.
 
+![20180404_002712](https://user-images.githubusercontent.com/32304271/38321034-bb478850-380c-11e8-82b8-4dce735f9ecb.jpg)
+
+- Hogar
+- Tecnología
+- Deporte
+- Moda
+- Vehículos
+- Propiedades
+- otros
+
+
+##### Ideación 
+
+Definidas las categorías y realizado el inventario, pasamos al sketch (dibujo).
+cada integrante realiza un dibujo con su propuesta basandose en los contenidos antes resueltos
+se presenta  al stakeholder las propuestas y se realizan los cambios según las capacidades del equipo front.
+
+estos son algunos sketch que buscaban resolver mejorar las busquedas, 

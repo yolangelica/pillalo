@@ -81,3 +81,12 @@ cada integrante realiza un dibujo con su propuesta basandose en los contenidos a
 se presenta  al stakeholder las propuestas y se realizan los cambios según las capacidades del equipo front.
 
 estos son algunos sketch que buscaban resolver mejorar las busquedas, 
+
+![imagen subida desde ios 5](https://user-images.githubusercontent.com/32304271/38324401-98d85038-3816-11e8-855b-e9c70ac5570d.jpg)
+
+algunos cambios sugeridos se basan en mantener el buscador bajo el texto principal, en este sketch el menu se habia eliminado y se debe mantener,  abajo como solución a las keysword se muestran los contenidos más vistos con un botón desplegable que mostrará más imagenes con sus descripciones, sin embargo la pantalla para móvil es mejor con dos o una imagen por vez.
+se consideran todos estos cambios y se realizan nuevos sketchs para finalizar con un prototipo
+estos tienen como objetivo mejorar el posicionamiento seo, reducir la tasa de rebote, agregar nuevas funcionalidades como portal de empleo o resaltar la categoría de propiedades, que es una de las más vistas los últimos 90 días, además podría ser una forma de mejorar el flujo y conversión los días de la semana que es cuando menos ingresan las personas.
+el prototipo además ofrece un landin page donde muestra un producto sugerido principal, dejando abajo los relacionados con la busqueda, así el usuario verá en la primera lista el producto y podrá recorrer un poco más la página.
+con respecto a la sugerencia de precio al ingresar un producto, se modifican los filtros propuestos con respecto a lo que es viable para el equipo front-end 
+

@@ -90,3 +90,5 @@ estos tienen como objetivo mejorar el posicionamiento seo, reducir la tasa de re
 el prototipo además ofrece un landin page donde muestra un producto sugerido principal, dejando abajo los relacionados con la busqueda, así el usuario verá en la primera lista el producto y podrá recorrer un poco más la página.
 con respecto a la sugerencia de precio al ingresar un producto, se modifican los filtros propuestos con respecto a lo que es viable para el equipo front-end 
 
+LINK PROTOTIPO : https://marvelapp.com/2g26d18/screen/40645859
+

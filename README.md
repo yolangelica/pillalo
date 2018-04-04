@@ -33,6 +33,11 @@ Se reune la data obtenida de la investigación y por medio de un mapa de afinida
 
 ##### Síntesis
 
+![20180403_132119](https://user-images.githubusercontent.com/32304271/38321015-aad2f608-380c-11e8-8966-07e572414c8f.jpg)
+![20180403_151933](https://user-images.githubusercontent.com/32304271/38321032-bb09a5e4-380c-11e8-8ce2-4e7f12060cd7.jpg)
+![20180403_152805](https://user-images.githubusercontent.com/32304271/38321033-bb29bd2a-380c-11e8-9428-1d45ffcbc0c9.jpg)
+![Uploading 20180404_002712.jpg…]()
+
 
 ![useruno](https://user-images.githubusercontent.com/32304271/38320683-9e634626-380b-11e8-9929-accff00602b0.jpg)
 ![userdos](https://user-images.githubusercontent.com/32304271/38320757-ce701d3a-380b-11e8-8a64-f1841df1310e.jpg)

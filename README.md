@@ -1,6 +1,6 @@
 # Pillalo
 
-##Mapa de proceso Ux
+## Mapa de proceso Ux
 
 Por medio de la mejora en la experiencia de usuario se busca rediseñar la página pillame.cl
 Los objetivos son los siguientes:
@@ -27,6 +27,11 @@ Investigación → Síntesis→ Definición → Prototipado → Test
 - Heurísticas de usabilidad
 - Test usabilidad
 
+En benchmark se estudiaron las competencias como: yapo.cl , trovit , mercado libre, Laborum.
+Test de usabilidad y heurísticas se realizaron para verificar la usabilidad de la página pillame.cl.
+Se reune la data obtenida de la investigación y por medio de un mapa de afinidad se dividen los hallazgos.
+
+##### Síntesis
 
 
 ![useruno](https://user-images.githubusercontent.com/32304271/38320683-9e634626-380b-11e8-9929-accff00602b0.jpg)

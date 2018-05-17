@@ -19,6 +19,15 @@ Los objetivos son los siguientes:
 - Sección de ofertas de servicios/empleos.
 - Sugerir nuevas categorías a sumar.
 
+## Como solución a estas problematicas se sugieren las siguientes modificaciónes:
+- Agregar sección empleabilidad para aumentar las visitas durante la semana.
+- Incorporar sección "los más vistos" para contribuir al posicionamiento SEO.
+- Para reducir la tasa de rebote, se descubio que la busqueda envía directamente a la página de facebook, reduciendo la estadia en pillalo, como solución al ingresar la busqueda entrega un listado de busquedas similares y luego se puede acceder al detalle de la busqueda que redirigirá a Facebook.
+- Además se crea una sección donde se podrá solicitar una sugerencia de precio a un producto que se desee vender.
+
+## Para llegar a estos resultados se realizaron las siguientes actividades
+
+
 **Se consideran las siguientes etapas para la organización del equipo, conformado por 6 ux.**
 
 Investigación → Síntesis→ Definición → Prototipado → Test

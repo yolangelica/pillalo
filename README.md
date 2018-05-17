@@ -1,4 +1,5 @@
 # Pillalo
+![pillalo](https://user-images.githubusercontent.com/32304271/40151914-9d90a99e-5950-11e8-890e-a0bc0f827655.png)
 
 ## Mapa de proceso Ux
 

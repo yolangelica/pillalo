@@ -20,10 +20,10 @@ Los objetivos son los siguientes:
 - Sugerir nuevas categorías a sumar.
 
 ## Como solución a estas problemáticas se sugieren las siguientes modificaciones:
-•	Agregar sección empleabilidad para aumentar las visitas durante la semana.
-•	Incorporar sección "los más vistos" para contribuir al posicionamiento SEO.
-•	Para reducir la tasa de rebote, se descubrió que la búsqueda envía directamente a la página de Facebook, reduciendo la estadía en píllalo, como solución al ingresar la búsqueda entrega un listado de búsquedas similares y luego se puede acceder al detalle de la búsqueda que redirigirá a Facebook.
-•	Además se crea una sección donde se podrá solicitar una sugerencia de precio a un producto que se desee vender.
+-	Agregar sección empleabilidad para aumentar las visitas durante la semana.
+-	Incorporar sección "los más vistos" para contribuir al posicionamiento SEO.
+- Para reducir la tasa de rebote, se descubrió que la búsqueda envía directamente a la página de Facebook, reduciendo la estadía en píllalo, como solución al ingresar la búsqueda entrega un listado de búsquedas similares y luego se puede acceder al detalle de la búsqueda que redirigirá a Facebook.
+-	Además se crea una sección donde se podrá solicitar una sugerencia de precio a un producto que se desee vender.
 
 
 ## Para llegar a estos resultados se realizaron las siguientes actividades

@@ -1,6 +1,11 @@
 # Pillalo
 ![pillalo](https://user-images.githubusercontent.com/32304271/40151914-9d90a99e-5950-11e8-890e-a0bc0f827655.png)
 
+plataforma que reune todas las publicaciones de venta existentes en Facebook, solicita mejoras en su web respecto a conversion y mantener al usuario mas tiempo en la plataforma antes de dirigirse directamente a la publicacion original de Facebook.
+pagina original : ![pillalo](https://www.pillalo.cl/)
+Todo esto realizado en la Hackathon femenina más grande de Chile organizado por Laboratoria, en un tiempo de 36 horas.
+![hf](http://mundomujer.cl/laboratoria-organiza-la-hackathon-de-mujeres-mas-grande-de-chile-talent-fest-abril-2018/)
+
 ## Mapa de proceso Ux
 
 Por medio de la mejora en la experiencia de usuario se busca rediseñar la página pillame.cl
